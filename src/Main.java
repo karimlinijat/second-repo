@@ -2,11 +2,10 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome! second git repo");
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
-            System.err.println("Salam");
-            System.err.println("Salam-2");
+            System.err.println("Salam-3");
+            System.err.println("Salam-4");
         }
     }
 }
