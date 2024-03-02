@@ -5,6 +5,7 @@ public class Main {
         System.out.printf("Hello and welcome! second git repo");
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
+            System.err.println("Salam");
         }
     }
 }
