@@ -6,6 +6,8 @@ public class Main {
             System.out.println("i = " + i);
             System.err.println("Salam-3");
             System.err.println("Salam-4");
+            System.err.println("Salam-5");
+            System.err.println("Salam-6");
         }
     }
 }
