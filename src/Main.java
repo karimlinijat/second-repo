@@ -8,6 +8,8 @@ public class Main {
             System.err.println("Salam-4");
             System.err.println("Salam-5");
             System.err.println("Salam-6");
+            System.err.println("Salam-7");
+            System.err.println("Salam-8");
         }
     }
 }
